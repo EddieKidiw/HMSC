@@ -17,7 +17,7 @@ cli
 php -d zend_extension=/path/extension_name.dll -m
 
 
-enable php extension from php.ini
+enable zend_extension from php.ini
 ; Directory in which the loadable extensions (modules) reside.
 ; https://php.net/extension-dir
 ;extension_dir = "./"
