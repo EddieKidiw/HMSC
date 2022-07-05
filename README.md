@@ -99,7 +99,7 @@ search until you find it like this
 ;
 ;   extension=mysqli
 ```
-put the `zend_extension=hmsc.so` for ***linux*** `zend_extension=php_hmsc.dll` for ***Windows***
+put the `zend_extension=hmsc.so` for ***linux***  `zend_extension=php_hmsc.dll` for ***Windows***
 
 ```bash
 Note : The syntax used in previous PHP versions ('extension=<ext>.so' and
@@ -168,6 +168,9 @@ service php7.X-fpm restart
 service php8.X-fpm restart
 ```
 
+
+Online tool encoder
+[https://tool.eddiekidiw.com/hmsc.html](https://tool.eddiekidiw.com/hmsc.html)
 
 Demo script hmsc 
 [https://github.com/EddieKidiw/demo-hmsc](https://github.com/EddieKidiw/demo-hmsc)
