@@ -1,3 +1,5 @@
+# Version
+ 2.0.0
 # HMSC
  Hide My Source Code
 ## How to get my OS architecture
