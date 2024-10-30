@@ -172,7 +172,4 @@ service php8.X-fpm restart
 
 
 Online tool encoder
-[https://tool.eddiekidiw.com/hmsc.html](https://tool.eddiekidiw.com/hmsc.html)
-
-Demo script hmsc 
-[https://github.com/EddieKidiw/demo-hmsc](https://github.com/EddieKidiw/demo-hmsc)
+[https://blog.eddiekidiw.org/hmsc-encoder.html](https://blog.eddiekidiw.org/hmsc-encoder.html)
